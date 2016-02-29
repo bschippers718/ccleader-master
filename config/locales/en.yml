@@ -23,7 +23,7 @@ en:
   hello: "Hello world"
 
   leaderboard:
-    subtitle: 'HappyFunCorp SkeeBall leaderboard'
+    subtitle: 'HappyFunCorp skeeball leaderboard'
   entries:
     name:     Name
     rank:     Rank
